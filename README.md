@@ -1,4 +1,4 @@
-# COE2SH4 - Course Project Template
+# COE2SH4 - Course Project
 
 A “Classic Mode” snake game starts with randomly generated snake food anywhere on the game board, and a snake head
 with zero body segments in another non-repeating random location somewhere on the game board. The snake can move
